@@ -1,3 +1,3 @@
-module github.com/ironstar-io/cron/v3
+module github.com/ironstar-io/cron
 
 go 1.12
